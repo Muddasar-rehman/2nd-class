@@ -1,2 +1,2 @@
 # 2nd-class
- in this code a advance hardhat project to create and deploy to ropsten etherscan network 
+ in this code i created advance hardhat project in typescript and deploy to ropsten etherscan network with the help of alchemy 
